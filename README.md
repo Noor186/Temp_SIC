@@ -1,5 +1,4 @@
 ## Team Members
-- Alice Ahmed
-- Omar Khaled
+- Mazen
+- Mohamed Bassem
 - Noor Gaffar
-- Sara Mohamed
